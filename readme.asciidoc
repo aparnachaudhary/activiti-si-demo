@@ -1,4 +1,4 @@
-== Liquibase RefCard ==
+== Activiti BPM Prototype ==
 
 A prototype application to demonstrate usage of Activiti BPM Engine with Spring Integration Mail Adapter.
 
